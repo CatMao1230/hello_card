@@ -1,1 +1,0 @@
-# Tutorial Hello Card Generator
